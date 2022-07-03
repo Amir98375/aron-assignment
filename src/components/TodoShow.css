@@ -1,0 +1,25 @@
+.tablerow{
+   background-color: black;
+    justify-content: space-around;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+
+}
+.tablecontent{
+    border: 1px solid grey;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    height: 30px;
+    gap: 20px;
+
+}
+.main{
+   width: 100%;
+    justify-content: space-around;
+    margin: auto;
+}
+.button{
+    color: blueviolet;
+}

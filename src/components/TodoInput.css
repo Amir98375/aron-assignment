@@ -1,0 +1,23 @@
+.Main{
+    height: 30px;
+    width: 20rem;
+    border-radius: 1rem;
+}
+.buttonn-Add{
+    height: 40px;
+    border-radius: 0.5rem;
+    background-color:gray;
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;  
+   
+}
+.MainDiv{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    width: 100%;
+    border-bottom: 1px solid grey;
+    background-color: antiquewhite;
+    padding-top: 10px;
+}
